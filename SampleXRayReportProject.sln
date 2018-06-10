@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SampleXRayReportProject", "SampleXRayReportProject\SampleXRayReportProject.rptproj", "{59300A2E-2779-4FF7-9DAB-54A3D82E3882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59300A2E-2779-4FF7-9DAB-54A3D82E3882}.Debug|Default.ActiveCfg = Debug
+		{59300A2E-2779-4FF7-9DAB-54A3D82E3882}.Debug|Default.Build.0 = Debug
+		{59300A2E-2779-4FF7-9DAB-54A3D82E3882}.Debug|Default.Deploy.0 = Debug
+		{59300A2E-2779-4FF7-9DAB-54A3D82E3882}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{59300A2E-2779-4FF7-9DAB-54A3D82E3882}.DebugLocal|Default.Build.0 = DebugLocal
+		{59300A2E-2779-4FF7-9DAB-54A3D82E3882}.Release|Default.ActiveCfg = Release
+		{59300A2E-2779-4FF7-9DAB-54A3D82E3882}.Release|Default.Build.0 = Release
+		{59300A2E-2779-4FF7-9DAB-54A3D82E3882}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC28D9F5-8CE3-43CA-9C8F-0E4CDE2209C0}
+	EndGlobalSection
+EndGlobal
